@@ -121,8 +121,8 @@ x-user-data: &user-data-script |
     -d "$payload"
 
 classes:
-  # Class 1
-  - class_id: "class1"
+  # Class 1 - Test: Github integration
+  - class_id: "692493e7068eb74399df7a41"
     lab_resources:
       - display_name: "Class 1 Lab Configuration"
         platform_type: "lab"
@@ -144,8 +144,8 @@ classes:
         title: "Class 1: Lesson 2"
         syntax: "md"
 
-  # Class 2
-  - class_id: "class2"
+  # Class 2 - Test: Github integration-2
+  - class_id: "6926141e84da085468ffebe2"
     lab_resources:
       - display_name: "Class 2 Lab Configuration"
         platform_type: "lab"
