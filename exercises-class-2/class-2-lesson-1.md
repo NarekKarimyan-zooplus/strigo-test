@@ -13,10 +13,3 @@ Run the following command:
 ```bash
 echo "Hello from Class 2!"
 ```
-
-## What You Learned
-
-- System monitoring commands
-- Resource management
-- Process management
-

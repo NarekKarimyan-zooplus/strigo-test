@@ -13,9 +13,3 @@ Run the following command:
 ```bash
 echo "Hello from Class 1!"
 ```
-
-## What You Learned
-
-- Basic terminal commands
-- File system navigation
-- System information
