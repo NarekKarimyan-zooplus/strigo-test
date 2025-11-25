@@ -1,7 +1,7 @@
 ---
 classes:
   - lab_resources:
-      - display_name: "Default Lab Configuration"
+      - display_name: "Lab"
         platform_type: "lab"
         image_platform: "linux"
         view_interface: "desktop"
@@ -12,10 +12,8 @@ classes:
             eu-central-1:
               image_id: "ami-003c60acc3656b8db"
           custom_username: "ubuntu"
-          user_data: "scripts/user-data.sh"
+          user_data: "../scripts/user-data.sh"
     exercises:
-      - file: "exercises/lesson-1.md"
-        title: "Lesson 1: Hello World"
+      - file: "../hello-world/hello.md"
+        title: "Hello!"
         syntax: "md"
-        exercise_type: "lesson"
-        duration: 5
