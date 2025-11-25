@@ -12,9 +12,9 @@ classes:
             eu-central-1:
               image_id: "ami-003c60acc3656b8db"
           custom_username: "ubuntu"
-        user_data: "../scripts/user-data.sh"
+          user_data: "scripts/user-data.sh"
     exercises:
-      - file: "../exercises/lesson-1.md"
+      - file: "exercises/lesson-1.md"
         title: "Lesson 1: Hello World"
         syntax: "md"
         exercise_type: "lesson"
