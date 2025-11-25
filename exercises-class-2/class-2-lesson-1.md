@@ -14,21 +14,6 @@ Run the following command:
 echo "Hello from Class 2!"
 ```
 
-## Step 2: Practice
-
-Try these commands:
-
-```bash
-# Check disk usage
-df -h
-
-# Check memory
-free -h
-
-# Check running processes
-ps aux | head -10
-```
-
 ## What You Learned
 
 - System monitoring commands

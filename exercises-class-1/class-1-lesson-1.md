@@ -14,21 +14,6 @@ Run the following command:
 echo "Hello from Class 1!"
 ```
 
-## Step 2: Practice
-
-Try these commands:
-
-```bash
-# Check your current directory
-pwd
-
-# List files
-ls -la
-
-# Check system information
-uname -a
-```
-
 ## What You Learned
 
 - Basic terminal commands
