@@ -22,7 +22,7 @@ curl -fsSL https://raw.githubusercontent.com/metalbear-co/mirrord/main/scripts/i
 
 Generate `values.yaml` with the minimal required settings:
 
-```bash
+```shell
 cat <<EOF >> values.yaml
 app: httpbin
 appVersion: 0.0.1
@@ -151,7 +151,7 @@ With mirrord you don’t need to do all that. You can run your application local
 
 ### Create `mirrord.json`
 
-```bash
+```shell
 cat <<EOF >> mirrord.json
 {
   "feature": {
