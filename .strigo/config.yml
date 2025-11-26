@@ -137,8 +137,14 @@ classes:
           custom_username: "ubuntu"
         user_data: *user-data-script
     exercises:
-      - file: "../exercises-class-1/class-1-lesson-1.md"
-        title: "Class 1: Lesson 1"
+      - file: "../mirrord/introduction-and-goal-of-training.md"
+        title: "Introduction & Goal of Training"
+        syntax: "md"
+      - file: "../mirrord/lab-1-using-mirrord.md"
+        title: "Lab 1: Using mirrord"
+        syntax: "md"
+      - file: "../mirrord/next-steps.md"
+        title: "Next Steps"
         syntax: "md"
 
 
