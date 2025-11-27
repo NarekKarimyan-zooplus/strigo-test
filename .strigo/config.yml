@@ -138,7 +138,7 @@ classes:
         user_data: *user-data-script
     exercises:
       - file: "../mirrord/introduction-and-goal-of-training.md"
-        title: "Introduction & Goal of Training"
+        title: "Introduction & Goal of Training!!!"
         syntax: "md"
       - file: "../mirrord/lab-1-using-mirrord.md"
         title: "Lab 1: Using mirrord"
