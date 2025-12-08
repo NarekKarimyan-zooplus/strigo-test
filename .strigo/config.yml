@@ -5,7 +5,7 @@ x-user-data: &user-data-script |
   
   set -e
   
-  # 1. Install kubectl
+  # 1. Install kubectl auto-fetch
   if ! command -v kubectl &> /dev/null; then
       KUBECTL_VERSION="v1.32.0"
       curl -LO "https://dl.k8s.io/release/${KUBECTL_VERSION}/bin/linux/amd64/kubectl"
