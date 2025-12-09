@@ -164,8 +164,11 @@ classes:
           custom_username: "ubuntu"
         user_data: *user-data-script
     exercises:
-      - file: "../exercises-class-2/class-2-lesson-1.md"
-        title: "Class 2: Lesson 1"
+      - file: "../mirrord/introduction-and-goal-of-training.md"
+        title: "Introduction & Goal of Training - auto-fetch test"
+        syntax: "md"
+      - file: "../mirrord/lab-1-using-mirrord.md"
+        title: "Lab 1: Using mirrord"
         syntax: "md"
 
   # Class 3 - Test: Github integration (Felix from Strigo)
