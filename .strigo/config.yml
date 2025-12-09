@@ -168,7 +168,6 @@ classes:
         title: "Class 2: Lesson 1"
         syntax: "md"
 
-classes:
   # Class 3 - Test: Github integration (Felix from Strigo)
   - class_id: "692858d66d70417f2feee164"
     lab_resources:
