@@ -149,7 +149,7 @@ classes:
 
 
   # Class 2 - Test: Github integration-2
-  - class_id: "6926141e84da085468ffebe2"
+  - class_id: "69380563b3a7d0c037469021"
     lab_resources:
       - display_name: "Class 2 Lab Configuration"
         platform_type: "lab"
