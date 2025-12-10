@@ -165,7 +165,7 @@ classes:
         user_data: *user-data-script
     exercises:
       - file: "../mirrord/introduction-and-goal-of-training.md"
-        title: "Introduction & Goal of Training - auto-fetch test 2025-12-10 #2"
+        title: "Introduction & Goal of Training - auto-fetch test 2025-12-10 #3"
         syntax: "md"
       - file: "../mirrord/lab-1-using-mirrord.md"
         title: "Lab 1: Using mirrord"
